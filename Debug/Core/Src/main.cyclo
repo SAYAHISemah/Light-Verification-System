@@ -1,0 +1,8 @@
+main.c:90:6:ADC_SelectChannel	2
+main.c:104:6:HAL_GPIO_EXTI_Callback	13
+main.c:246:5:main	1
+main.c:320:6:SystemClock_Config	4
+main.c:364:13:MX_ADC_Init	7
+main.c:450:13:MX_USART1_UART_Init	2
+main.c:485:13:MX_GPIO_Init	1
+main.c:517:6:Error_Handler	1
